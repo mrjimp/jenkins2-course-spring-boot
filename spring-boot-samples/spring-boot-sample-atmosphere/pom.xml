@@ -49,6 +49,8 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+	
+	<!-- JIMP CHANGING STUFFS AROUND -->
 	<build>
 		<plugins>
 			<plugin>
